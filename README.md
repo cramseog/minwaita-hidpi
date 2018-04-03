@@ -1,5 +1,9 @@
 # minwaita-hidpi
 A gnome shell theme for hidpi screens
+Use with GNOME SCALE FACTOR = 1
+```
+gsettings set org.gnome.desktop.interface text-scaling-factor 1.0
+```
 
 This theme is fully inspired by minwaita.  
 It uses the google Noto fonts.  
